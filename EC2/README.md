@@ -26,3 +26,21 @@ Successfully launched and connected to a Windows EC2 instance using RDP and expl
 
 ### Storage Details
 ![Storage](STORAGE.jpeg)
+
+# Linux EC2
+
+## EC2 Instance Running
+
+![EC2 Instance Running](EC2-INSTANCE-LINUX.jpeg)
+
+## SSH Connection
+
+![SSH Connection](SSH-CONNECTION.jpeg)
+
+## Linux Terminal
+
+![Linux Terminal](LINUX-TERMINAL.jpeg)
+
+## Linux Commands
+
+![Linux Commands](LINUX-COMMANDS.jpeg)
