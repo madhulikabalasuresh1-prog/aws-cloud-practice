@@ -16,7 +16,7 @@ Successfully launched and connected to a Windows EC2 instance using RDP and expl
 ## Screenshots
 
 ### EC2 Instance Running
-![EC2 Instances](EC2-INSTANCE.jpeg)
+![EC2 Instances](EC2-INSTANCES.jpeg)
 
 ### RDP Connection
 ![RDP Connection](RDP-CONNECTION.jpeg)
